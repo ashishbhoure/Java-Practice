@@ -82,7 +82,7 @@ class BinaryTree{
         Scanner scanner = new Scanner(System.in);
         BinaryTree tree = new BinaryTree();
         tree.populate(scanner);
-        tree.display();
+        tree.display(); 
         tree.prettyDisplay();
     }
 }
