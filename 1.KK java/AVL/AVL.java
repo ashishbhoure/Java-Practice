@@ -182,7 +182,7 @@ class AVL{
             avlTree.insert(i);
          }
 
-         System.out.println(avlTree.height());
+        //  System.out.println(avlTree.height());
     }
    
 }
